@@ -2,18 +2,18 @@
     max-height: 768 px;
     width: 100%;
     text-align: center;
-    background-color: #dff6f0;
+    background-color: #e3fdfd;
 }
 
 .contact-me{
     text-align: center;
-    background-color: #a3f7bf;
+    background-color: #cadefc;
 }
 .footer-link{
     text-align: center;
 }
 .bottom-container {
-    background-color: #66BFBF;
+    background-color: #71c9ce;
     text-align: center;
     padding: 50px 0 20px;
   }
@@ -58,13 +58,13 @@ h3{
 #educationcontent{
     max-height: 768 px;
     width: 100%;
-    background-color: #46b3e6;
+    background-color: #cbf1f5;
     text-align:center;
 }
 #professioncontent{
     max-height: 768 px;
     width: 100%;
-    background-color: #4d80e4;
+    background-color: #dbe2ef;
     text-align: center;
 }
 .footer{
