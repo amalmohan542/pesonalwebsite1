@@ -1,0 +1,73 @@
+#bio{
+    max-height: 768 px;
+    width: 100%;
+    text-align: center;
+    background-color: #dff6f0;
+}
+
+.contact-me{
+    text-align: center;
+    background-color: #a3f7bf;
+}
+.footer-link{
+    text-align: center;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    text-align: center;
+    padding: 50px 0 20px;
+  }
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+#me{
+    margin-top: 30px;
+    height: 150px;
+    border-radius: 30%;
+
+}
+.icons{
+    height: 40px;
+}
+a{
+    margin: 24px;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+}
+P{
+    font-family: Poppins;
+      text-align: center;
+}
+h2 {
+    font-size: 48px;
+    font-weight: 400;
+      text-align: center;
+}
+
+h3{
+    font-size: 24px;
+    font-weight: 400;
+      text-align: center;
+}
+#educationcontent{
+    max-height: 768 px;
+    width: 100%;
+    background-color: #46b3e6;
+    text-align:center;
+}
+#professioncontent{
+    max-height: 768 px;
+    width: 100%;
+    background-color: #4d80e4;
+    text-align: center;
+}
+.footer{
+    background-color: #2e279d;
+    text-align: center;
+}
